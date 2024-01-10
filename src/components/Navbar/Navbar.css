@@ -1,0 +1,6 @@
+/* .hi{
+    background: #000;
+} */
+.hi::-webkit-scrollbar {
+    display: none;
+  }
